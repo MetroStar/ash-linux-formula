@@ -2,7 +2,7 @@
 """
 Provide custom state module for ash-linux.
 
-:maintainer: Loren Gordon <loren.gordon@plus3it.com>
+:maintainer: Loren Gordon <loren.gordon@MetroStar.com>
 """
 from salt.exceptions import SaltInvocationError  # pylint: disable=import-error
 
